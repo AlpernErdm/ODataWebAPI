@@ -1,10 +1,10 @@
-# 🌐 OData Query Parameters & Filters
+# OData Query Parameters & Filters
 
 Bu proje, ASP.NET Core ile OData destekli RESTful API uygulamasıdır. Aşağıda, OData ile desteklenen sorgu parametreleri ve örnek filtreleme ifadeleri yer almaktadır.
 
 ---
 
-## 🔧 Genel Query Parametreleri
+## Genel Query Parametreleri
 
 | Parametre         | Açıklama                              | Örnek Kullanım                    |
 |-------------------|----------------------------------------|----------------------------------|
